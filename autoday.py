@@ -191,4 +191,4 @@ async def anotações(ctx):
 
 
 
-bot.run("MTAxOTExNzUzOTY3NjEzOTYwMA.G1Frh7.S6lhIl35bTWtRf6DimgszL_vd3_AHJu3jehXj0")
+bot.run("")
